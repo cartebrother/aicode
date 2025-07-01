@@ -1,0 +1,2 @@
+# aicode
+code for ai 
